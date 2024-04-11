@@ -1,16 +1,3 @@
-# scanning_portal
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<H2>AN APP TO KEEP TRACK OF PARTICIAPNTS IN TERRATHON3.0 ORGANIZED BY THE-ALCODING-CLUB AND CMS ON 10-11th APRIL</H2>  
+![WhatsApp Image 2024-04-11 at 2 11 27 PM (1)](https://github.com/avishek0070/TERRATHON3.0_SCANNING_PORTAL/assets/116940851/5db15f93-71b7-4deb-b257-5ee412d56820)
+![WhatsApp Image 2024-04-11 at 2 11 27 PM](https://github.com/avishek0070/TERRATHON3.0_SCANNING_PORTAL/assets/116940851/ab082ac8-8ae8-41ce-ba2e-bbcd426846fe)
