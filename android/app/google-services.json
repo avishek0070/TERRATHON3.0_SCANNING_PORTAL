@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "20799780138",
+    "project_id": "rasodamakonhai",
+    "storage_bucket": "rasodamakonhai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20799780138:android:f1b6ec320cef8f02471a53",
+        "android_client_info": {
+          "package_name": "com.example.rasdamakonhai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMRMHUGntTfqwAR-qE-ftB7I_E3c-Ph7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20799780138:android:e89bb28a5740c636471a53",
+        "android_client_info": {
+          "package_name": "com.example.scanning_portal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMRMHUGntTfqwAR-qE-ftB7I_E3c-Ph7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
